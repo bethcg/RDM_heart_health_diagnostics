@@ -1,0 +1,12 @@
+# --- Core packages & visualization ---
+pandas
+openpyxl
+plotly
+matplotlib
+seaborn
+
+# --- Health (Python) ---
+# Note: R packages are handled via renv.lock, 
+# but if using Python for this thread:
+scikit-learn
+ucimlrepo
